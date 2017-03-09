@@ -19,7 +19,6 @@ public class HelloWorld {
 	public void grußAydin(){
 		System.out.print("Schöne Grüße von Faydin"); 
 	}
-	
 	public void grußVicovac (){
 		System.out.println("Schoene Grueße von Oliver");
 	}
