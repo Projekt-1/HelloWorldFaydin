@@ -13,9 +13,12 @@ public class HelloWorld {
 	public HelloWorld(){
 		System.out.print("Hello World!"); 
 		grußAydin(); 
+		Vicovac();
 	}
 	
 	public void grußAydin(){
+	public void Vicovac (){
+		System.out.println("Schoene Grueße von Oliver");
 		System.out.print("Schöne Grüße von Faydin"); 
 	}
 }
