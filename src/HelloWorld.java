@@ -22,5 +22,6 @@ public class HelloWorld {
 	
 	public void gruﬂVicovac (){
 		System.out.println("Schoene Grueﬂe von Oliver");
+		System.out.println("Schoene Grueﬂe von Oliver");
 	}
 }
