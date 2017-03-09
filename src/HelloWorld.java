@@ -12,5 +12,9 @@ public class HelloWorld {
 	 */
 	public HelloWorld(){
 		System.out.print("Hello World!"); 
+		Vicovac();
+	}
+	public void Vicovac (){
+		System.out.println("Schoene Grueﬂe von Oliver");
 	}
 }
