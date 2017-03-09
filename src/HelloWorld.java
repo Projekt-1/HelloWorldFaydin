@@ -12,5 +12,10 @@ public class HelloWorld {
 	 */
 	public HelloWorld(){
 		System.out.print("Hello World!"); 
+		grußAydin();
+	}
+	
+	public void grußAydin(){
+		System.out.print("Schöne Grüße von Faydin"); 
 	}
 }
